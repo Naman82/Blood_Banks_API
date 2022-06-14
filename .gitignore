@@ -1,0 +1,5 @@
+env
+project/bloodbanks.csv
+project/.env
+project/sqlite3.exe
+project/db.sqlite3
